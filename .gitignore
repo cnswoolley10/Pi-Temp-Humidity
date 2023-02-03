@@ -3,3 +3,9 @@
 
 # Ignore venv
 /venv
+
+# Ignore main_test.py so I can do random local testing without uploading gunk 
+main_test.py
+
+# Ignore test_data folder
+/tests/test_data
